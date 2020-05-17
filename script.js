@@ -705,13 +705,13 @@ var labelTestData = [
   {label: "person c", times: [{"starting_time": 1355761910000, "ending_time": 1355763910000}]}
 ];
 var iconTestData = [
-  {class:"jackie", icon: "jackie.png", times: [
+  {class:"seal", icon: "seal.svg", times: [
     {"starting_time": 1355752800000, "ending_time": 1355759900000},
     {"starting_time": 1355767900000, "ending_time": 1355774400000}]},
-  {class:"troll", icon: "troll.png", times: [
+  {class:"duck", icon: "duck.svg", times: [
     {"starting_time": 1355759910000, "ending_time": 1355761900000,
     "display":"circle"}, ]},
-  {class:"wat", icon: "wat.png", times: [
+  {class:"bear", icon: "bear.svg", times: [
     {"starting_time": 1355761910000, "ending_time": 1355763910000}]}
 ];
 var labelColorTestData = [
